@@ -1,0 +1,10 @@
+Package: monitor
+Type: Package
+Title: What the package does (short line)
+Version: 0.1.0
+Date: 2018-04-16
+Author: Feifan Cheng
+Maintainer: Feifan Cheng <chengff11@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: MIT
+RoxygenNote: 6.0.1
