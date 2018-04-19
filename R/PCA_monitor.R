@@ -18,7 +18,7 @@
 #'   \item{T2 -- }{the vector of Hotelling's T2 test statistic for each of the
 #'     same n observations}
 #' }
-#' 
+#' @references https://github.com/gabrielodom/mvMonitoring
 #' @examples
 #' 
 #' @export

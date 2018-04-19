@@ -33,3 +33,6 @@ statistic values for each observation in this data matrix.
 \examples{
 
 }
+\references{
+https://github.com/gabrielodom/mvMonitoring
+}
