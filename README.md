@@ -16,3 +16,6 @@ fault_detection <- faultDetect(threshold_object = threshold_pca, observation =  
 The Result figure is as following
 
 ![PCA monitoring](/figure/PCA.png)
+
+## Run DPCA
+
