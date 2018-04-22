@@ -16,4 +16,4 @@ Run PCA on a linear model
 
 The Result figure is as following
 
-![PCA monitoring]('/figure/PCA.png')
+![PCA monitoring](/figure/PCA.png)
